@@ -1,4 +1,4 @@
-runtime: nodejs10
+runtime: nodejs22
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: aca-projects:us-central1:eflaatten-db
