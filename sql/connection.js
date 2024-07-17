@@ -1,5 +1,5 @@
 const mysql = require('mysql')
-const dotenv = require('dotenv')
+require('dotenv').config()
 
 class Connection {
   constructor() {
